@@ -31,7 +31,7 @@ A comprehensive freelance project management system built with React, TypeScript
 
 ```bash
 git clone https://github.com/yourusername/freelance-pm.git
-cd freelancehub
+cd freelance-pm
 ```
 
 2. Install dependencies:
